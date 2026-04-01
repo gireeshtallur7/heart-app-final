@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 st.set_page_config(page_title="Heart Disease Prediction")
-st.title("❤️ Heart Disease Prediction App")
+st.title("❤️ Heart Disease Prediction App by Gireesh Tallur")
 
 # Load model
 try:
